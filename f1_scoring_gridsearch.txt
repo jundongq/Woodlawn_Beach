@@ -1,0 +1,13 @@
+0.7829457364341085
+              precision    recall  f1-score   support
+
+           0       0.85      0.83      0.84        89
+           1       0.64      0.68      0.66        40
+
+   micro avg       0.78      0.78      0.78       129
+   macro avg       0.75      0.75      0.75       129
+weighted avg       0.79      0.78      0.78       129
+
+[[74 15]
+ [13 27]]
+ {'gamma': 0.4, 'learning_rate': 0.05, 'max_depth': 5, 'reg_alpha': 0.01}
